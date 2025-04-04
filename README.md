@@ -19,3 +19,4 @@ The goal of this task is to develop a Python script that reads data from a file 
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b84d1e6e-0afa-409c-8652-720275c5bb3e)
